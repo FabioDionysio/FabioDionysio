@@ -1,7 +1,7 @@
 ## Hi! I´m Fabio Dionysio 
 
 - 🔭 I’m currently working as Data Scientist at Itaú Unibanco
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning TensorFlow
 - 😄 Pronouns: he/him
 
 ##
