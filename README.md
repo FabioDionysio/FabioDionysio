@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/FabioDionysio/FabioDionysio/issues/1#issue-2414697507.png" alt=”my banner”>
+
+</p>
+
 ## Hi! I´m Fabio Dionysio 
 
 - 🔭 I’m currently working as Data Scientist at Itaú Unibanco
