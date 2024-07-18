@@ -53,9 +53,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabiodionysio&" alt="fabiodionysio" /></p>
 
-<--
 
-### It's not technology, but I use it. The section will be changed soon.:
+### It's not technology, but I use it.
+| Latex | ssh | XML | Yaml | json | VSCode |
+|----------|----------|----------|----------|----------|----------|
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
@@ -66,11 +67,10 @@
 --> 
 </div>
 
----
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=fabiodionysio&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
