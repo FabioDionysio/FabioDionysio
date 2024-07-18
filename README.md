@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/FabioDionysio?tab=repositories)
 
-- 💬 Ask me about **Python | Credit Risk | Predictive Models | Physics **
+- 💬 Ask me about **Python | Credit Risk | Predictive Models | Physics**
 
 - 📫 How to reach me **fdionysio@gmail.com**
 
