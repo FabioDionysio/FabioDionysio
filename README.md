@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/fabiodionysio/)
 
-- ⚡ Fun fact **Love travel**
+- ⚡ Fun fact **Brazilian and Italian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
