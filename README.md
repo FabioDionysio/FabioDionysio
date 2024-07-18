@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on [Physics-informed Neural Networks](https://github.com/FabioDionysio/PINNs)
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch | Tensorflow**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FabioDionysio?tab=repositories](https://github.com/FabioDionysio?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/FabioDionysio?tab=repositories)
 
-- 📝 I regularly write articles on [https://github.com/FabioDionysio/PINNs](https://github.com/FabioDionysio/PINNs)
-
-- 💬 Ask me about **python**
+- 💬 Ask me about **Python | Credit Risk | Predictive Models | Physics **
 
 - 📫 How to reach me **fdionysio@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fabiodionysio/](https://www.linkedin.com/in/fabiodionysio/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/fabiodionysio/)
 
 - ⚡ Fun fact **Love travel**
 
