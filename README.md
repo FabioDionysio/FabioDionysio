@@ -46,38 +46,6 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img width="800" src="https://streak-stats.demolab.com?user=fabiodionysio&theme=highcontrast&hide_border=true&border_radius=5">
-</p>
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fabiodionysio&show_icons=true&theme=vision-friendly-dark">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodionysio&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fabiodionysio/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/fdionysio" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:fdionysio@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-
-
 </div>
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=fabiodionysio&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -96,3 +64,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture> 
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fabiodionysio/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/fdionysio" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:fdionysio@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
